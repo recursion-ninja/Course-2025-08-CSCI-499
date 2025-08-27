@@ -124,8 +124,8 @@ The capstone course can be broken up into three phases.
 |    12/01    |     12/03     | *No Class,* dedicated work time  | Project report № 10 |
 |    12/08    |     12/10     | *No Class,* dedicated work time  | Project report № 11 |
 |    12/15    |     12/17     | **Final presentations (1/2)**    | **Final presentations** (2/2) |
-*Notes:*
 
+*Notes:*
 
   - The final presentations will take place 12/17/25 from 5:30pm – 7:20 pm per the [registrar's posting][final-times].
 
