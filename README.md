@@ -138,7 +138,7 @@ Assignments are due at **`11:59PM`** on the date specified below.
 
 | **Date**    | **Day**          | **Assignment**                     |
 |:-----------:|:-----------------|:-----------------------------------|
-|    08/29    |     Friday       | Skills and interests survey        |
+|    09/01    |     Monday       | Skills and interests survey        |
 |    09/03    |     Wednesday    | GitHub account                     |
 |    09/05    |     Friday       | Social contract                    |
 |    09/08    |     Monday       | Product definition presentation    |
