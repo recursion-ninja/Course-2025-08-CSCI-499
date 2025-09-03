@@ -105,14 +105,14 @@ The capstone course can be broken up into three phases.
 
 # Course Schedule
 
-| **Mondays** | **Wednesdays** | Monday Activities | Thursday Activities |
+| **Mondays** | **Wednesdays** | Monday Activities | Wednesday Activities |
 |:-----------:|:-----------:|:------------------------------------------|:------------------------------------------|
 |             |     08/27     |                                  | Syllabus, GitHub, project brainsorming |
 |             |     09/03     | Group assignments                | social contracts |
-|    09/08    |     09/10     | Product definition presentations | Project report № 1  |
-|    09/15    |     09/17     | *No Class,* dedicated work time  | Project report № 2  |
+|    09/08    |     09/10     | *No Class,* dedicated work time  | Product definition presentations  |
+|    09/15    |     09/17     | *No Class,* dedicated work time  | Project report № 1  |
 |             |               |                                  | |
-|    09/29    |               | Project report № 3               | |
+|    09/29    |               | Project report № 2               | |
 |    10/06    |     10/08     | *No Class,* dedicated work time  | Project report № 3  |
 |             |     10/15     |                                  | Project report № 4  |
 |             |     10/22     |                                  | Project report № 5  |
@@ -141,7 +141,7 @@ Assignments are due at **`11:59PM`** on the date specified below.
 |    09/01    |     Monday       | Skills and interests survey        |
 |    09/03    |     Wednesday    | GitHub account                     |
 |    09/05    |     Friday       | Social contract                    |
-|    09/08    |     Monday       | Product definition presentation    |
+|    09/10    |     Wednesday    | Product definition presentation    |
 |    11/02    |     Sunday       | MVP presentation script & slides   |
 |    12/14    |     Sunday       | Final presentation script & slides |
 |    12/20    |     Sunday       | Peer assessment                    |
