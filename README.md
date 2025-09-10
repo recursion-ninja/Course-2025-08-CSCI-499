@@ -111,7 +111,7 @@ The capstone course can be broken up into three phases.
 |             |     09/03     | Group assignments                | social contracts |
 |    09/08    |     09/10     | *No Class,* dedicated work time  | Product definition presentations  |
 |    09/15    |     09/17     | *No Class,* dedicated work time  | Project report № 1  |
-|             |               |                                  | |
+|    -----    |     -----     |                                  | |
 |    09/29    |               | Project report № 2               | |
 |    10/06    |     10/08     | *No Class,* dedicated work time  | Project report № 3  |
 |             |     10/15     |                                  | Project report № 4  |
