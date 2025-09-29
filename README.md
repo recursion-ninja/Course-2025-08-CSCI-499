@@ -114,7 +114,7 @@ The capstone course can be broken up into three phases.
 |    -----    |     -----     |                                  | |
 |    09/29    |               | Project report № 2               | |
 |    10/06    |     10/08     | *No Class,* dedicated work time  | Project report № 3  |
-|             |     10/15     |                                  | Project report № 4  |
+|    10/13    |               | Project report № 4               | |
 |             |     10/22     |                                  | Project report № 5  |
 |    10/27    |     10/29     | *No Class,* dedicated work time  | Project report № 6  |
 |    11/03    |     11/05     | **MVP presentations** (1/2)      | **MVP presentations** (2/2) | 
