@@ -7,12 +7,12 @@
   - Taeseong Kim
   - Preen Shrestha
 
-## Pokémon Card Collection Cataloger
-  - Wonseok Choi
-  - Danylo Horovenko
-  - John Lee
-  - Ethan Lo
-  - Ashish Pal
+## Brainstorm
+  - Fatima Asif
+  - Alexander Demtchenko
+  - Moshe Levinson
+  - Devin Xie
+  - Christopher Zanabria
 
 ## Centsible
   - Ahnaf Ahmed
@@ -21,12 +21,11 @@
   - Tony Lin
   - Zara Amer
 
-## Brainstorm
-  - Fatima Asif
-  - Alexander Demtchenko
-  - Moshe Levinson
-  - Devin Xie
-  - Christopher Zanabria
+## League of LEET Code
+  - Emily Lin
+  - Arshadul Monir
+  - Maliha Tasnim
+  - Justin Wong
 
 ## Let's Go!
   - Xin Yuan Cheng Zheng
@@ -34,8 +33,10 @@
   - Amy Ng
   - Farhan Sofian
 
-## League of LEET Code
-  - Emily Lin
-  - Arshadul Monir
-  - Maliha Tasnim
-  - Justin Wong
+## Pokémon Card Collection Cataloger
+  - Wonseok Choi
+  - Danylo Horovenko
+  - John Lee
+  - Ethan Lo
+  - Ashish Pal
+
